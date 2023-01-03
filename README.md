@@ -3,7 +3,7 @@
 
 
 - 🔭 hoje trabalho como Desenvolvedor full stack
-- 🌱 estudando PHP
+- 🌱 estudando java
 - 😄 ele/deles
 
 
